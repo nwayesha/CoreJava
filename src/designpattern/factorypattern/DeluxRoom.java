@@ -1,4 +1,4 @@
-package designpattern;
+package designpattern.factorypattern;
 
 public class DeluxRoom extends RoomType {
 	@Override

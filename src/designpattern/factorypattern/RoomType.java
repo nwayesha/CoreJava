@@ -1,4 +1,4 @@
-package designpattern;
+package designpattern.factorypattern;
 
 public abstract class RoomType {
 	protected double rate;

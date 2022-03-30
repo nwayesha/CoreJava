@@ -1,4 +1,4 @@
-package designpattern;
+package designpattern.factorypattern;
 
 public class SingleRoom extends RoomType {
 	@Override
